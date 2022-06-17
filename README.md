@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Puneet Sharma.
 - 👀 I’m interested in Python, Machine learning, Data visualzation, Data analytics related projects. I have good experience in banking and finance domain specifically in UK mortgages. I have worked for Nationwide building society as an Automation and manual test specialist for 5 years including 2 years in UK(Swindon) and 3 years in India(Gurgaon). Prior to working with Nationwide building society, I was employed with Cognizant technology solutions as database, manual and mainframe tester for 4 years.
-- 🌱 I’m currently learning Python and also learning Machine learning using python.
 - 💞️ I’m looking to collaborate on Machine learning roles as well as interested in Python development (beginner level) roles.
 - 📫 You can reach me out on either on linked or on gmail as below:-
 
