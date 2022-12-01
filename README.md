@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Puneet Sharma.
 
-- 👀 I’m interested in Data Science, Machine learning, and Python-related projects. I have good knowledge and experience in the banking and finance domain, specifically in UK mortgages. I have worked with Nationwide building society(client) as an Automation and manual test specialist for 5 years including 2 years in the UK (Swindon) and 3 years in India (Gurgaon). Prior to this, I was employed with Cognizant technology solution (India) as Database, Mainframe, and manual test engineer in the Healthcare insurance domain for 4 years.
+- 👀 I’m interested in Data Science, Python development, or SDET roles. I have good knowledge and experience in the banking and finance domain, specifically in UK mortgages. I have worked with Nationwide building society(client) as an Automation and manual test specialist for 5 years including 2 years in the UK (Swindon) and 3 years in India (Gurgaon). Prior to this, I was employed with Cognizant technology solution (India) as Database, Mainframe, and manual test engineer in the Healthcare insurance domain for 4 years.
 
 - 💞️ I’m looking to collaborate on Machine learning as well as Python development roles.
 
